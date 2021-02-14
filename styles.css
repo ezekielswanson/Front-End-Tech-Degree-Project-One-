@@ -204,10 +204,8 @@ a.social:hover {
 
 .card-title {
     color: black;
-    text-align:center;
-    border:10px solid black;
-    border-radius:10px;
+    text-align: center;
+    border: 10px solid black;
+    border-radius: 10px;
   }
-  
-  
-
+}
